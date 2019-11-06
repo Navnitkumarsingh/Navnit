@@ -3,15 +3,14 @@
 -----------
 # ** Programming for Problem Solving**
 -------
-#Name:"Navnit kumar"
+## Name:**Navnit kumar**
 ---------
-#Roll no: 1915101
+## Roll no:**1915101**
 --------
-#Branch:"CSE"
+## Branch:**CSE**
 --------
-#Section:'B'
+## Section:**B**
 --------
-##       *************       ##
 ---
 ```c
 ##1.Program to add two number
